@@ -1,0 +1,52 @@
+#bienvenida{
+    color: rgb(236, 234, 125);
+    background-color: rgb(50, 50, 50);
+    text-align: center;
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#container{
+    text-align: center;
+}
+
+button#btn{
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(236, 234, 125);
+    font-weight: bold;
+    background-color: rgb(61, 60, 60);
+    margin: auto;
+    display: block;
+    margin-top: 15px;
+    box-shadow: none !important;
+}
+
+
+.card{
+    
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(236, 234, 125);
+    background-color: rgb(59, 59, 52);
+    padding: 5px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#registro{
+    background-color: rgb(182, 223, 196);
+    padding: 5px;
+    color: rgb(6, 151, 11);
+}
+
+input{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+body{
+    background-color:rgb(85, 84, 84); ;
+}
+
+
